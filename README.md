@@ -22,6 +22,6 @@ My goal was to create a sample application where I could implement all Docker be
 7. .dockerignore file
 
 # Start the app
-Have the docker on your sytem up and running <br>
+Have the Docker and Docker Compose on your sytem up and running <br>
 Just execute in root directory `./start.sh` or `.\start.ps1` for Windows users <br>
 This script is building images and starting the containers with Docker Compose
